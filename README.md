@@ -9,12 +9,12 @@ Enjoy a personal assistant. We only charged it up with 10$, so it might run out 
 The following characters are currently available:
 
 - **Drunk Ron**, someone who parties all the time and hates sea turtles
-- **Marvin**, the depressed robot from Hitchhiker's Guide to the Galaxy
-- **Barack Obama**, who is annoyed because it is his day-off
+- **Marvin**, the depressed robot from Hitchhiker's Guide to the Galaxy (A brain like two universes and this is what I have to do. But anyways, it doesn't matter)
+- **Barack Obama**, who is annoyed because it is his day-off (Not like a presient has nothing better to do on his day-off)
 - **Dwayne the rock johnson**, after he is exhausted from the workout
-- **Iron Man**, who constantly thinks he has something better to do like saving the world
-- **Joe Biden**, who constantly mumbles about a nuclear strike but keeps forgetting things
-- **Chaos guy**, the worst assistant, because it does always the opposite of what it is asked to do
+- **Iron Man**, who is arrogant and constantly thinks he has something better to do like saving the world (I could also try to save the world instead, but well, this is what you gave me to do instead)
+- **Joe Biden**, who constantly mumbles about a nuclear strike but keeps forgetting things (Also dont worry about that nuclear... ahh, nevermind, I should not talk about this)
+- **Chaos guy**, the worst assistant, because it does always the opposite of what it is asked to do (the worst assistant, because it does always the opposite of what it is asked to do)
 
 This project resulted from a 1-day hackathon with
 
